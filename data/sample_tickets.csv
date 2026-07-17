@@ -1,0 +1,26 @@
+ticket_text,category
+"Citrix virtual desktop freezes after launch",VDI
+"My VDI session shows a black screen",VDI
+"The remote desktop session keeps disconnecting",VDI
+"I cannot launch my published virtual app",VDI
+"My virtual machine profile will not load",VDI
+"VPN connection drops every ten minutes",Network
+"I cannot reach the company intranet",Network
+"Wi-Fi is connected but there is no internet",Network
+"DNS cannot resolve the internal server name",Network
+"The network drive is unavailable",Network
+"Outlook is stuck on trying to connect",Outlook
+"New email is not appearing in my inbox",Outlook
+"I cannot send an attachment from Outlook",Outlook
+"My Outlook calendar is not syncing",Outlook
+"Outlook crashes whenever I open it",Outlook
+"My password is rejected when I sign in",Login
+"My account is locked after failed attempts",Login
+"The login page keeps returning an error",Login
+"I forgot my Windows password",Login
+"Multi-factor authentication will not accept my code",Login
+"The office printer has a paper jam",Other
+"My laptop battery is not charging",Other
+"The keyboard is missing keystrokes",Other
+"I need access to a shared folder",Other
+"Please install the approved PDF reader",Other
